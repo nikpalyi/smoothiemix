@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "name": "Apple",
+    "calories": 36,
+    "protein": 10,
+    "carbs": 0
+  },
+  {
+    "id": 1,
+    "name": "Banana",
+    "calories": 105,
+    "protein": 1,
+    "carbs": 27
+  },
+  {
+    "id": 2,
+    "name": "Kiwi",
+    "calories": 54,
+    "protein": 1,
+    "carbs": 13
+  },
+  {
+    "id": 3,
+    "name": "Kale",
+    "calories": 35,
+    "protein": 2,
+    "carbs": 5
+  },
+  {
+    "id": 4,
+    "name": "Spinach",
+    "calories": 4,
+    "protein": 3,
+    "carbs": 1
+  },
+  {
+    "id": 5,
+    "name": "Blueberry",
+    "calories": 38,
+    "protein": 1,
+    "carbs": 9
+  },
+  {
+    "id": 6,
+    "name": "Raspberries",
+    "calories": 30,
+    "protein": 7,
+    "carbs": 1
+  },
+  {
+    "id": 7,
+    "name": "Strawberry",
+    "calories": 24.9,
+    "protein": 1,
+    "carbs": 6
+  },
+  {
+    "id": 8,
+    "name": "Mango",
+    "calories": 99,
+    "protein": 1.4,
+    "carbs": 25
+  },
+  {
+    "id": 9,
+    "name": "Avocado",
+    "calories": 161,
+    "protein": 2,
+    "carbs": 8.6
+  },
+  {
+    "id": 10,
+    "name": "Nectarine",
+    "calories": 34,
+    "protein": 1,
+    "carbs": 8
+  },
+  {
+    "id": 11,
+    "name": "Pineapple",
+    "calories": 38,
+    "protein": 0,
+    "carbs": 10
+  },
+  {
+    "id": 12,
+    "name": "Grapefruit",
+    "calories": 36,
+    "protein": 1,
+    "carbs": 9
+  },
+  {
+    "id": 13,
+    "name": "Pear",
+    "calories": 49,
+    "protein": 0,
+    "carbs": 13
+  },
+  {
+    "id": 14,
+    "name": "Orange",
+    "calories": 42,
+    "protein": 1,
+    "carbs": 11
+  },
+  {
+    "id": 15,
+    "name": "Almond Milk",
+    "calories": 30,
+    "protein": 1,
+    "carbs": 1
+  }
+]

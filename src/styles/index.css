@@ -1,0 +1,27 @@
+body {
+  background-image: url('../assets/background2.jpg');
+  height: 100%;
+  background-size: cover;
+  background-repeat: none;
+  opacity: 0.8;
+}
+
+.App {
+  text-align: center;
+  padding: 2%;
+  color: white;
+}
+
+.right-button {
+  cursor: pointer;
+  float: right;
+}
+
+.list-item {
+  display: inline-block;
+  color: darkslategrey;
+}
+
+.list-group {
+  color: darkslategrey;
+}
