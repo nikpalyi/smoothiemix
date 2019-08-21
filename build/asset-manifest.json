@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smoothiemix/static/css/main.06429b26.chunk.css",
+    "main.js": "/smoothiemix/static/js/main.ed4a6493.chunk.js",
+    "main.js.map": "/smoothiemix/static/js/main.ed4a6493.chunk.js.map",
+    "runtime~main.js": "/smoothiemix/static/js/runtime~main.6bbaca1b.js",
+    "runtime~main.js.map": "/smoothiemix/static/js/runtime~main.6bbaca1b.js.map",
+    "static/js/2.628e574d.chunk.js": "/smoothiemix/static/js/2.628e574d.chunk.js",
+    "static/js/2.628e574d.chunk.js.map": "/smoothiemix/static/js/2.628e574d.chunk.js.map",
+    "index.html": "/smoothiemix/index.html",
+    "precache-manifest.0924132d6ec3e9404dba59f9f168c036.js": "/smoothiemix/precache-manifest.0924132d6ec3e9404dba59f9f168c036.js",
+    "service-worker.js": "/smoothiemix/service-worker.js",
+    "static/css/main.06429b26.chunk.css.map": "/smoothiemix/static/css/main.06429b26.chunk.css.map",
+    "static/media/index.css": "/smoothiemix/static/media/background2.bff15a93.jpg"
+  }
+}
