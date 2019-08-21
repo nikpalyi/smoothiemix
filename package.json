@@ -2,6 +2,7 @@
   "name": "supersquad",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nikpalyi.github.io/smoothiemix/",
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
