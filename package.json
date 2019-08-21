@@ -11,7 +11,8 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^5.0.5",
-    "redux": "^3.7.0"
+    "redux": "^3.7.0",
+    "terser": "^4.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,7 +20,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "publish-demo": "npm run build && npm run deploy"
   },
   "browserslist": {
     "production": [
